@@ -1,0 +1,16 @@
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\RecursiveBinarySearch.exe
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\RecursiveBinarySearch.deps.json
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\RecursiveBinarySearch.runtimeconfig.json
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\RecursiveBinarySearch.runtimeconfig.dev.json
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\RecursiveBinarySearch.dll
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\ref\RecursiveBinarySearch.dll
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\bin\Debug\net5.0\RecursiveBinarySearch.pdb
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.csprojAssemblyReference.cache
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.AssemblyInfoInputs.cache
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.AssemblyInfo.cs
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.dll
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\ref\RecursiveBinarySearch.dll
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.pdb
+C:\Users\maxgo\source\repos\RecursiveBinarySearch\RecursiveBinarySearch\obj\Debug\net5.0\RecursiveBinarySearch.genruntimeconfig.cache
