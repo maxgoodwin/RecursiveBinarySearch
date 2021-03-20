@@ -7,13 +7,6 @@ namespace RecursiveBinarySearch
 
         private static int BinarySearch(int[] a, int search, int rightMostPos, int leftMostPos = 0)
         {
-            
-            if (search == a[leftMostPos])
-            {
-                return leftMostPos;
-            }
-            
-
             if (rightMostPos < leftMostPos)
             {
                 return -1;
@@ -27,11 +20,11 @@ namespace RecursiveBinarySearch
             }
             else if (search < a[middle])
             {
-                return BinarySearch(a, search, middle, leftMostPos);
+                return BinarySearch(a, search, middle - 1, leftMostPos);
             }
             else
             {
-                return BinarySearch(a, search, rightMostPos, middle);
+                return BinarySearch(a, search, rightMostPos, middle + 1);
             }
         }
 
@@ -44,9 +37,9 @@ namespace RecursiveBinarySearch
                 testArray1[i] = i;
             }
 
-            int searchPos = BinarySearch(testArray1, 0, 9);
+            int searchPos = BinarySearch(testArray1, 9, 9);
 
-            Console.WriteLine("{0}", searchPos);
+            Console.WriteLine(searchPos);
         }
     }
 }
